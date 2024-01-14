@@ -2,7 +2,7 @@
 A simple Node.js web server that serves static files and handles different content types. This project provides a basic foundation for building web servers in Node.js and includes functionality for serving HTML, CSS, JavaScript, and images. Feel free to use it as a starting point for your web development projects.
 
 [Live Demo](https://horatio-nodejs-web-server.netlify.app/)
-![NodeJs Web Server](image.png)
+![NodeJs Web Server](nodejs-web-server.png)
 
 Key Features:
 - Static file serving
